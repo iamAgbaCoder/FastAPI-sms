@@ -1,0 +1,5 @@
+fastapi 
+twilio 
+uvicorn
+python-multipart
+pydantic-settings
